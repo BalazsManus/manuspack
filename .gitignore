@@ -1,0 +1,12 @@
+defaultconfigs/*
+downloads/*
+journeymap/*
+logs/*
+patchouli_books/*
+saves/*
+schematics/*
+options.txt
+patchouli_data.json
+minecraftinstance.json
+.curseclient
+profileImage/*
