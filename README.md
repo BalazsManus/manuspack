@@ -91,19 +91,19 @@
 - [x] [Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/packet-fixer)
 - [x] [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 - [ ] Piercing Paxels
-- [ ] Polymorph
+- [x] [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)
 - [x] [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib)
 - [x] [Puzzles Lib (Forge)](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
-- [ ] REI Plugin Compatibilities
+- [x] [REI Plugin Compatibilities](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items-hacks)
 - [ ] Resourceful Lib
-- [ ] Roughly Enough Items (REI)
-- [ ] Simple Voice Chat
+- [x] [Roughly Enough Items (REI)](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+- [x] [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 - [ ] Sinytra Connector
-- [ ] Smarter Farmers (farmers replant)
+- [x] [Smarter Farmers (farmers replant)](https://www.curseforge.com/minecraft/mc-mods/smarter-farmers-farmers-replant)
 - [x] [Smooth Boot (Reloaded)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-reloaded)
-- [ ] Sound Physics Remastered
-- [ ] Staaaaaaaaaaaack (Stxck)
-- [ ] Starlight (Forge)
+- [x] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
+- [x] [Staaaaaaaaaaaack (Stxck)](https://www.curseforge.com/minecraft/mc-mods/staaaaaaaaaaaack)
+- [x] [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)
 - [ ] Tempest
 - [ ] Templates 2
 - [x] [TerraBlender (Forge)](https://www.curseforge.com/minecraft/mc-mods/terrablender)
