@@ -32,7 +32,7 @@
 - [x] [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm)
 - [x] [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [ ] CoroUtil
-- [ ] CoFH Core
+- [x] [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core)
 - [x] [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
 - [ ] Continuity
 - [x] [Create](https://www.curseforge.com/minecraft/mc-mods/create)
@@ -40,7 +40,7 @@
 - [x] [Create: Garnished](https://www.curseforge.com/minecraft/mc-mods/garnished)
 - [ ] Create: Structures
 - [x] [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
-- [ ] Cristel Lib
+- [x] [Cristel Lib](https://www.curseforge.com/minecraft/mc-mods/cristel-lib)
 - [x] [CullLessLeaves Reforged](https://www.curseforge.com/minecraft/mc-mods/culllessleaves-reforged)
 - [x] [Curios API (Forge)](https://www.curseforge.com/minecraft/mc-mods/curios)
 - [x] [Discord Intengration](https://www.curseforge.com/minecraft/mc-mods/dcintegration)
@@ -107,14 +107,14 @@
 - [ ] Tempest
 - [ ] Templates 2
 - [x] [TerraBlender (Forge)](https://www.curseforge.com/minecraft/mc-mods/terrablender)
-- [ ] Terralith
+- [x] [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)
 - [ ] The Aether
-- [ ] The Twilight Forest
-- [ ] Thermal Cultivation
-- [ ] Thermal Expansion
-- [ ] Thermal Foundation
-- [ ] TrashSlot
-- [ ] Traveler's Backpack
+- [x] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+- [x] [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
+- [x] [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
+- [x] [Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)
+- [x] [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
+- [x] [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack)
 - [ ] Veinminer
 - [ ] Visual Workbench
 - [ ] Waystones
