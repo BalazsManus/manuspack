@@ -43,7 +43,7 @@
 - [ ] Cristel Lib
 - [x] [CullLessLeaves Reforged](https://www.curseforge.com/minecraft/mc-mods/culllessleaves-reforged)
 - [x] [Curios API (Forge)](https://www.curseforge.com/minecraft/mc-mods/curios)
-- [ ] Discord Intengration
+- [x] [Discord Intengration](https://www.curseforge.com/minecraft/mc-mods/dcintegration)
 - [x] [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors)
 - [x] [Embeddium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged)
 - [x] [Elytra Slot](https://www.curseforge.com/minecraft/mc-mods/elytra-slot)
