@@ -116,10 +116,10 @@
 - [x] [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
 - [x] [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack)
 - [ ] Veinminer
-- [ ] Visual Workbench
-- [ ] Waystones
-- [ ] Why stacks of 16?
-- [ ] YUNG's API
+- [ ] [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)
+- [x] [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
+- [x] [Why stacks of 16?](https://www.curseforge.com/minecraft/mc-mods/why-stacks-of-16)
+- [x] [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
 - [ ] YUNG's Better Desert Temples
 - [ ] YUNG's Better Dungeons
 - [ ] YUNG's Better End Island
@@ -131,5 +131,5 @@
 - [ ] YUNG's Better Witch Huts
 - [ ] YUNG's Bridges
 - [ ] YUNG's Extras
-- [ ] You Died
-- [ ] fast-ip-ping
+- [x] [You Died](https://www.curseforge.com/minecraft/mc-mods/you-died)
+- [x] [fast-ip-ping](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping)
